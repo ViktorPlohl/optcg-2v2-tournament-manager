@@ -1,5 +1,7 @@
 # One Piece TCG Tournament Manager
 
+[![Tests](https://github.com/ViktorPlohl/optcg-2v2-tournament-manager/actions/workflows/test.yml/badge.svg)](https://github.com/ViktorPlohl/optcg-2v2-tournament-manager/actions/workflows/test.yml)
+
 > **🚀 Quick Start**: New to this project? Check out [SETUP.md](SETUP.md) for the fastest way to get started!
 
 ## 📋 Overview
