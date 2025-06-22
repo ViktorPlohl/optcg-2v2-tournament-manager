@@ -2,6 +2,10 @@
 
 [![Tests](https://github.com/ViktorPlohl/optcg-2v2-tournament-manager/actions/workflows/test.yml/badge.svg)](https://github.com/ViktorPlohl/optcg-2v2-tournament-manager/actions/workflows/test.yml)
 
+## 🌐 Try It Online
+
+**Try it now:** https://viktorplohl.github.io/optcg-2v2-tournament-manager/
+
 > **🚀 Quick Start**: New to this project? Check out [SETUP.md](SETUP.md) for the fastest way to get started!
 
 ## 📋 Overview

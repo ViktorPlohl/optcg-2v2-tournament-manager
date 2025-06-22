@@ -2,6 +2,10 @@
 
 [![Tests](https://github.com/ViktorPlohl/optcg-2v2-tournament-manager/actions/workflows/test.yml/badge.svg)](https://github.com/ViktorPlohl/optcg-2v2-tournament-manager/actions/workflows/test.yml)
 
+## 🌐 Kipróbálás Online
+
+**Próbáld ki most rögtön:** https://viktorplohl.github.io/optcg-2v2-tournament-manager/
+
 > **🚀 Gyors Indítás**: Új vagy a projektben? Nézd meg a [SETUP.md](SETUP.md) fájlt a leggyorsabb kezdéshez!
 
 ## 📋 Áttekintés
