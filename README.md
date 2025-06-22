@@ -451,4 +451,4 @@ If this project helped you organize your One Piece TCG tournaments, please give 
 ---
 
 *Created by: One Piece TCG Tournament Manager v1.0*
-*Last updated: 2024* 
+*Last updated: 2025* 

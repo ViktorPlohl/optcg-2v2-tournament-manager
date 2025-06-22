@@ -444,4 +444,4 @@ Ha ez a projekt segített a One Piece TCG versenyeid szervezésében, kérlek ad
 ---
 
 *Készítette: One Piece TCG Tournament Manager v1.0*
-*Utolsó frissítés: 2024* 
+*Utolsó frissítés: 2025* 
